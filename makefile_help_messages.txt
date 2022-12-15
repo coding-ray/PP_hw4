@@ -1,0 +1,7 @@
+Usage: make [option]
+
+option:
+  help  Print these help messages.
+  s     Compile and run the smoothing program in serial.
+  p     Compile and run the smoothing program in parallel.
+  test  Compile and run the test program.
